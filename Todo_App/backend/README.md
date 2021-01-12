@@ -7,7 +7,7 @@ Follow below steps to run this backend ReactJs Part:
 
 1.Move to this folder in command prompt.
 
-2.Type npm start.
+2.Type npm start/nodemon server to run app.
 
 3.The backend part start running. 
   
