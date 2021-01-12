@@ -34,5 +34,5 @@ Follow below steps to run this backend ReactJs Part:
 
 3. The backend part start running. 
 
-     Now, move to frontend part running on localhost:3000 and perform the respective operations.
+   Now, move to frontend part running on localhost:3000 and perform the respective operations.
 
