@@ -28,11 +28,11 @@ MongoDB Configuration
   
 Follow below steps to run this backend ReactJs Part:
 
-1.Move to this folder in command prompt.
+1. Move to this folder in command prompt.
 
-2.Type npm start.
+2. Type npm start.
 
-3.The backend part start running. 
+3. The backend part start running. 
 
      Now, move to frontend part running on localhost:3000 and perform the respective operations.
 
