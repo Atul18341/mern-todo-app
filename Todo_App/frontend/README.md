@@ -4,7 +4,7 @@ Follow below steps to run this frontend ReactJs Part:
 
 1. Move to this folder in command prompt.
 
-2.Type npm install to all the dependencies when running for first time. (skip this step from second time.)
+2. Type npm install to all the dependencies when running for first time. (skip this step from second time.)
 
 3. Type npm start or yarn start.
 
